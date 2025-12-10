@@ -1,3 +1,5 @@
 Project Kubernetes Deployment.
-Steps. Changes added.
+Steps. Changes. 
+ignore.
+
 
