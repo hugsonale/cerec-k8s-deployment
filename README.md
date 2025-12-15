@@ -1,7 +1,9 @@
 Project Kubernetes Deployment.
 Steps. Changes. 
 ignore.
-MVP core features
+MVP core features.
+
+MVP tested
 
 
 
